@@ -1,5 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on a BS in Statistics @BYU
+
 🌱 I’m currently learning Data Science Methodologies
 
 <!--
